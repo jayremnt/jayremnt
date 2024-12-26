@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/jayremnt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayremnt&show_icons=true&theme=aura&locale=en&hide_border=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayremnt&show_icons=true&theme=midnight-purple&locale=en&hide_border=true&rank_icon=github"/>
   </a>
   <a href="https://github.com/jayremnt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayremnt&show_icons=true&theme=aura&locale=en&layout=compact&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayremnt&show_icons=true&theme=midnight-purple&locale=en&layout=compact&hide_border=true"/>
   </a>
 </p>
 
